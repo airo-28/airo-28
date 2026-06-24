@@ -7,7 +7,7 @@ university of mindanao · davao city
 
 <br>
 
-[`portfolio`](aparondo.vercel.app) &nbsp; [`linkedin`](https://www.linkedin.com/in/airo-parondo-640719327/) &nbsp; [`credly`](https://www.credly.com/users/airo-parondo)
+[`portfolio`](https://aparondo.vercel.app) &nbsp; [`linkedin`](https://www.linkedin.com/in/airo-parondo-640719327/) &nbsp; [`credly`](https://www.credly.com/users/airo-parondo)
 
 </div>
 

@@ -2,7 +2,7 @@
 
 # `airo parondo`
 
-**cs student · web developer · cybersecurity**  
+**cs student**  
 university of mindanao · davao city
 
 <br>

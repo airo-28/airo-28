@@ -25,11 +25,7 @@ third-year bs computer science student with a focus on web development and a gro
 **`languages`**
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,php,python,js,html,css,bash&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=java,php,python,js,html,css,bash&theme=light">
-  <img alt="languages" src="https://skillicons.dev/icons?i=java,php,python,js,html,css,bash&theme=dark">
-</picture>
+  <a href="#"><img src="https://skillicons.dev/icons?i=java,php,python,js,html,css,bash&theme=dark" alt="languages" /></a>
 </div>
 
 <br>
@@ -37,11 +33,7 @@ third-year bs computer science student with a focus on web development and a gro
 **`frameworks & libraries`**
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,laravel,bootstrap,nodejs&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,laravel,bootstrap,nodejs&theme=light">
-  <img alt="frameworks" src="https://skillicons.dev/icons?i=react,laravel,bootstrap,nodejs&theme=dark">
-</picture>
+  <a href="#"><img src="https://skillicons.dev/icons?i=react,laravel,bootstrap,nodejs&theme=dark" alt="frameworks" /></a>
 </div>
 
 <br>
@@ -49,11 +41,7 @@ third-year bs computer science student with a focus on web development and a gro
 **`databases`**
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=light">
-  <img alt="databases" src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=dark">
-</picture>
+  <a href="#"><img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=dark" alt="databases" /></a>
 </div>
 
 <br>
@@ -61,11 +49,7 @@ third-year bs computer science student with a focus on web development and a gro
 **`tools & platforms`**
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,git,github,linux,figma,vscode,postman&theme=dark">
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=docker,git,github,linux,figma,vscode,postman&theme=light">
-  <img alt="tools" src="https://skillicons.dev/icons?i=docker,git,github,linux,figma,vscode,postman&theme=dark">
-</picture>
+  <a href="#"><img src="https://skillicons.dev/icons?i=docker,git,github,linux,figma,vscode,postman&theme=dark" alt="tools" /></a>
 </div>
 
 <br>
@@ -83,37 +67,9 @@ third-year bs computer science student with a focus on web development and a gro
 ## `stats`
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=airo-28&layout=compact&bg_color=2c2e31&title_color=e2b714&text_color=d1d0c5&border_color=404040&langs_count=8">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=airo-28&layout=compact&bg_color=f5f4f0&title_color=323437&text_color=646669&border_color=e0e0e0&langs_count=8">
-  <img alt="top languages" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=airo-28&layout=compact&bg_color=2c2e31&title_color=e2b714&text_color=d1d0c5&border_color=404040&langs_count=8">
-</picture>
-&nbsp;&nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=airo-28&background=2c2e31&ring=e2b714&fire=e2b714&currStreakLabel=e2b714&sideLabels=d1d0c5&sideNums=d1d0c5&currStreakNum=d1d0c5&dates=646669&border=404040">
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=airo-28&background=f5f4f0&ring=e2b714&fire=e2b714&currStreakLabel=323437&sideLabels=323437&sideNums=323437&currStreakNum=323437&dates=646669&border=e0e0e0">
-  <img alt="github streak" height="180" src="https://streak-stats.demolab.com/?user=airo-28&background=2c2e31&ring=e2b714&fire=e2b714&currStreakLabel=e2b714&sideLabels=d1d0c5&sideNums=d1d0c5&currStreakNum=d1d0c5&dates=646669&border=404040">
-</picture>
-</div>
-
-<br>
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=airo-28&bg_color=2c2e31&color=d1d0c5&line=e2b714&point=e2b714&area_color=e2b714&area=true&hide_border=false&border_color=404040&custom_title=contribution%20graph">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=airo-28&bg_color=f5f4f0&color=646669&line=e2b714&point=e2b714&area_color=e2b714&area=true&hide_border=false&border_color=e0e0e0&custom_title=contribution%20graph">
-  <img alt="contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=airo-28&bg_color=2c2e31&color=d1d0c5&line=e2b714&point=e2b714&area_color=e2b714&area=true&hide_border=false&border_color=404040&custom_title=contribution%20graph">
-</picture>
-</div>
-
-<br>
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy.vercel.app/?username=airo-28&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4&column=7">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy.vercel.app/?username=airo-28&theme=flat&no-frame=true&no-bg=true&margin-w=4&column=7">
-  <img alt="trophies" src="https://github-profile-trophy.vercel.app/?username=airo-28&theme=gruvbox&no-frame=true&no-bg=true&margin-w=4&column=7">
-</picture>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=airo-28&layout=compact&bg_color=2c2e31&title_color=e2b714&text_color=d1d0c5&border_color=404040&langs_count=8" alt="top languages" height="180" /></a>
+  &nbsp;&nbsp;
+  <a href="#"><img src="https://streak-stats.demolab.com/?user=airo-28&background=2c2e31&ring=e2b714&fire=e2b714&currStreakLabel=e2b714&sideLabels=d1d0c5&sideNums=d1d0c5&currStreakNum=d1d0c5&dates=646669&border=404040" alt="github streak" height="180" /></a>
 </div>
 
 <br>

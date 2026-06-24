@@ -16,7 +16,7 @@ university of mindanao · davao city
 > *curious about how systems work and how they break.*  
 > *building things, learning as i go, one commit at a time.*
 
-third-year bs computer science student with a focus on web development and a growing interest in cybersecurity. i build full-stack web apps through coursework and personal projects — mostly with php, laravel, and javascript.
+third-year cs student with a lot left to learn. most of what i know comes from coursework and building things on the side — web apps, databases, a bit of cybersecurity. still early, but i show up and figure it out.
 
 <br>
 

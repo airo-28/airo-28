@@ -20,6 +20,7 @@ third-year cs student with a lot left to learn. most of what i know comes from c
 
 <br>
 
+<!--
 ## `stack`
 
 **`languages`**
@@ -64,6 +65,7 @@ third-year cs student with a lot left to learn. most of what i know comes from c
 
 <br>
 
+
 ## `stats`
 
 <div align="center">
@@ -74,6 +76,7 @@ third-year cs student with a lot left to learn. most of what i know comes from c
 
 <br>
 
+
 ---
 
 <div align="center">
@@ -81,3 +84,4 @@ third-year cs student with a lot left to learn. most of what i know comes from c
 `a.parondo.549789@umindanao.edu.ph`
 
 </div>
+-->

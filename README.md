@@ -49,7 +49,7 @@ third-year cs student with a lot left to learn. most of what i know comes from c
 **`tools & platforms`**
 
 <div align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=docker,git,github,linux,figma,vscode,postman&theme=dark" alt="tools" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=docker,git,github,figma,vscode,postman&theme=dark" alt="tools" /></a>
 </div>
 
 <br>

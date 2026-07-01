@@ -20,51 +20,27 @@ third-year cs student with a lot left to learn. most of what i know comes from c
 
 <br>
 
-<!--
 ## `stack`
 
-**`languages`**
-
 <div align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=java,php,python,js,html,css,bash&theme=dark" alt="languages" /></a>
+  <a href="#"><img src="https://skillicons.dev/icons?i=java,php,python,js,html,css,bash,react,laravel,bootstrap,nodejs,mysql,postgres,sqlite,docker,git,github,linux,figma,vscode,postman&theme=dark&perline=7" alt="tech stack" /></a>
 </div>
 
 <br>
 
-**`frameworks & libraries`**
+## `badges`
 
 <div align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=react,laravel,bootstrap,nodejs&theme=dark" alt="frameworks" /></a>
+  <a href="https://www.credly.com/users/airo-parondo"><img src="https://raw.githubusercontent.com/airo-28/portfolio/main/assets/certs/its-cybersecurity.png" alt="ITS Cybersecurity" height="140" /></a>
+  &nbsp;
+  <a href="https://www.credly.com/users/airo-parondo"><img src="https://raw.githubusercontent.com/airo-28/portfolio/main/assets/certs/its-databases.png" alt="ITS Databases" height="140" /></a>
+  &nbsp;
+  <a href="https://www.credly.com/users/airo-parondo"><img src="https://raw.githubusercontent.com/airo-28/portfolio/main/assets/certs/its-java.png" alt="ITS Java" height="140" /></a>
+  &nbsp;
+  <a href="https://www.credly.com/users/airo-parondo"><img src="https://raw.githubusercontent.com/airo-28/portfolio/main/assets/certs/ai-skills-fest.png" alt="Microsoft AI Skills Fest" height="140" /></a>
 </div>
 
 <br>
-
-**`databases`**
-
-<div align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=dark" alt="databases" /></a>
-</div>
-
-<br>
-
-**`tools & platforms`**
-
-<div align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=docker,git,github,figma,vscode,postman&theme=dark" alt="tools" /></a>
-</div>
-
-<br>
-
-## `certifications`
-
-**it specialist** — pearson / certiport  
-&nbsp;&nbsp; `cybersecurity` · may 2026 &nbsp; | &nbsp; `databases` · may 2025 &nbsp; | &nbsp; `java` · mar 2024
-
-**events**  
-&nbsp;&nbsp; `microsoft ai skills fest` · 2026 &nbsp; | &nbsp; `git & github + js workshop` · cce skills clinic, um · jun 2026
-
-<br>
-
 
 ## `stats`
 
@@ -76,7 +52,6 @@ third-year cs student with a lot left to learn. most of what i know comes from c
 
 <br>
 
-
 ---
 
 <div align="center">
@@ -84,4 +59,3 @@ third-year cs student with a lot left to learn. most of what i know comes from c
 `a.parondo.549789@umindanao.edu.ph`
 
 </div>
--->
